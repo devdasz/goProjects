@@ -3,6 +3,7 @@ This is a simple server made with go lang. Static folder contains the static fil
 "main.go" contains the server code and listenting on port 8080.
 You can change the port via eding http.ListenAndServe(":8080",...) function and change 8080 with your available port. 
 Also firewall access may needed.
+Try on replit https://simple-go-server.devdazz.repl.co/
 
 # Requirements
 go 1.19 should be installed on your machine
